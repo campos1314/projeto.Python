@@ -8,7 +8,7 @@ from time import sleep
 host = 'smtp.gmail.com'
 port = '587'
 login = 'familiabuscape.1931@gmail.com'
-senha = 'matheus99'
+senha = '*********'
 tempo = time.strftime('%H:%M:%S', time.localtime())
 
 server = smtplib.SMTP(host, port)
